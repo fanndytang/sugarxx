@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "ad",
+  "author": "fanhh <1825923694@qq.comm>",
+  "private": true,
+  "scripts": {
+    "start": "node websocket/index.js",
+    "jsdoc": "jsdoc -c conf.json"
+  }
+}
