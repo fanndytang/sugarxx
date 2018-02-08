@@ -9,6 +9,10 @@ function route(pathname) {
             // res.write('这是upload')
             msg = 'this is upload'
             break;
+        case '/test':
+            // res.write('这是upload')
+            msg = 'this is test'
+            break;
         default:
             msg = 'unknow'
             break;
